@@ -1,5 +1,7 @@
 ## Top 20 Most used Hacking and Pentesting Tools
 
+![thumbnail](https://raw.githubusercontent.com/neoslab/tutorials/master/thumbnails/3f50658f30aaa5da86dae9acdaf0e4b6-1920x1080.jpg "Thumbnail")
+
 > Hacking Tools are computer programs and scripts that help hackers and security researchers find and exploit weaknesses in computer systems, web applications, servers, and networks. There is a variety of such tools available on the market.
 
 Some of them are open source while others are the commercial solution. Some are dedicated to Windows users meanwhile another is only made for Linux lovers. In this article, we will discuss in brief the top 20 tools that are widely used to prevent hacking and getting unauthorized access to a computer or network system.
